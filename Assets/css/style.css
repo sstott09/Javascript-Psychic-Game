@@ -1,0 +1,98 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5c8010679b7d15292290cb75/1551901727554-UUZAZO8IE6EIIPEJE9W1/ke17ZwdGBToddI8pDm48kBAvt9vv59Sb-C0q5ZXV3ml7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3rv7sVmavAApj1cuSnuUyXzqqXjS3CfNDSuuf31e0tVHuBqetCoqqCnc91tmskGxkY6hkR94lVH9rQm9TadNWDhmpGYODuNNVr1QC1ocB_8A/image-asset.jpeg?format=1500w);
+    background-attachment: unset;
+    background-repeat: no-repeat, repeat-y;
+    background-size: 100%;
+  } 
+  
+  
+  /*general*/
+  
+  .container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
+  }
+  
+  h1 {
+    font-weight: 700;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 90px;
+    line-height: 49px;
+    color: black;
+    background-color: white;
+  }
+  
+  h2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 49px;
+    color: green;
+    background-color: white;
+  }
+
+  h3 {
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+    font-size: 40px;
+    line-height: 49px;
+    color: black;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  p {
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+    font-size: 40px;
+    line-height: 49px;
+    color: black;
+    background-color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  
+  /*header*/
+  .container {
+    padding:20px;
+    margin:20 20 20 20;
+  }
+  
+  /*Main*/
+  .main-container {
+    margin-top:40px;
+    padding:40px;
+  }
+  
+  /*footer*/
+  
+  footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #8eb7f3;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
