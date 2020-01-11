@@ -10,6 +10,8 @@ In this assignment, I've created a simple yet compelling computer game.
 1. This app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript code. 
 2. Essentially, the app randomly picks a letter, and the user has to guess which letter the app chose.
 
+This link will take you to the game: https://sstott09.github.io/Javascript-Psychic-Game/
+
 ### Key Topics
 * Code comments
 * console
